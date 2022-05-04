@@ -27,8 +27,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 # domain: unita.github.io
 url: "https://unito-gmammolo.github.io/unita.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: jekyllrb
-github_username:  jekyll
+markdown: GFM
+# twitter_username: jekyllrb
+github_username:  UNITO-gmammolo
 
 # Build settings
 theme: jekyll-theme-minimal
