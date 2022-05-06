@@ -2,7 +2,7 @@
 
 link collector for the UNITA project, UniTO section.
 
-the site can be reached on [unita-links.github.io](unita-links.github.io)
+the site can be reached on [unita-links.github.io](https://unita-links.github.io)
 
 site generated with [jekyll](https://jekyllrb.com/)
 

@@ -37,7 +37,6 @@ github_username:  unito-links
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
-  - jekyll-youtube
 sass:
   sass_dir: _sass
   style: compressed
