@@ -12,7 +12,3 @@ Raccolta dei link utili
 {% include_relative links.md %}
 </div>
 
-
-<!-- 
-{% youtube "https://www.youtube.com/watch?v=PkSwwVMzDac" %}
--->
