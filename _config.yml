@@ -27,7 +27,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 # domain: unita.github.io
 url: "https://unito-links.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
-markdown: GFM
+# markdown: GFM 
+markdown: kramdown
+
 # twitter_username: jekyllrb
 github_username:  unito-links
 
@@ -35,7 +37,10 @@ github_username:  unito-links
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
-
+  - jekyll-youtube
+sass:
+  sass_dir: _sass
+  style: compressed
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

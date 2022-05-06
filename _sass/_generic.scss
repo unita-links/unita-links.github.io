@@ -2,6 +2,11 @@ body  {
   text-align: center;
 }
 
+section {
+  margin: 0 20vw;
+
+}
+
 footer {
   position: fixed;
   bottom: 0;
@@ -11,4 +16,13 @@ footer {
   color: white;
   padding-top: 30px;
   padding-bottom: 10px;
+}
+
+.list-block {
+  // border: 1px solid red;
+  margin: 0 5em;
+}
+
+ul {
+  text-align: left;
 }
