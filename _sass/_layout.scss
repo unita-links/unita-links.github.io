@@ -12,11 +12,35 @@ body {
   // nav {}
 
   .central {
+    text-align: center;
+    
     .header {}
 
-    .content {}
+    .content {
+    }
   }
 
   footer {}
 
 }
+
+
+@media only screen and (min-width: 1980px) {
+  .central {
+    margin: 0 30vw;
+  }
+}
+
+@media only screen and (min-width: 1280px) {
+  .central {
+    margin: 0 30vw;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .central {
+    margin: 0 20vw;
+  }
+}
+
+
