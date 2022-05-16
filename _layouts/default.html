@@ -5,21 +5,33 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href={{ "assets/css/main.css" | relative_url }}> 
   </head>
-  <body class="">
+  <body>
     <nav>
       <!--
         <a href="/">Home</a>
         <a href="/blog/">Blog</a>
       -->
     </nav>
-    <h1>{{ page.title }}</h1>
-    <img src={{ "assets/images/start_logo.png" | relative_url }} alt="logo">
-    <section>
-      {{ content }}
+    <section class="central">
+      <div class="header">
+        <h1>{{ page.title }}</h1>
+        <img src={{ "assets/images/start_logo.png" | relative_url }} alt="logo">
+      </div>
+      <section class="content">
+        {{ content }}
+      </section>
     </section>
     <footer>
+      <address>
+        <div>
+          <i class="fa-solid fa-at"></i></i><a href="mailto:unita.communication@unito.it">unita.communication@unito.it</a>
+        </div>
+        <div>
+          <i class="fa-solid fa-house"></i><a href="https://www.univ-unita.eu/">www.univ-unita.eu</a>  
+        </div>
+      </address>
       <div>
-        &copy; UNITA - Universitas Montium
+        &copy; 2022 - UNITA - Universitas Montium
       </div>
     </footer>
   </body>

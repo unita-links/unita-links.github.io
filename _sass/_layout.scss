@@ -1,0 +1,22 @@
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+body {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+
+  // unused
+  // nav {}
+
+  .central {
+    .header {}
+
+    .content {}
+  }
+
+  footer {}
+
+}

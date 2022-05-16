@@ -7,8 +7,7 @@ layout: default
 title: UNITA Links
 ---
 
-Raccolta dei link utili
+Raccolta dei link utili: 
 <div class="list-block" markdown="1">
 {% include_relative links.md %}
 </div>
-
