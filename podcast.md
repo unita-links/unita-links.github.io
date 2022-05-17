@@ -5,6 +5,6 @@
   - <span class="fa-li"><i class="fa-solid fa-arrow-right-from-bracket"></i></span>[NOME_DA_VISUALIZZARE](URL_DA_RAGGIUNGERE) 
 -->
 
-- <span class="fa-li"><i class="fa-solid fa-arrow-right-from-bracket"></i></span>[rivista](https://issuu.com/unita.communication/docs/pubblicazioneunita) 
-- <span class="fa-li"><i class="fa-solid fa-arrow-right-from-bracket"></i></span>[www.univ-unita.eu](http://www.univ-unita.eu/) 
+- <span class="fa-li"><i class="fa-solid fa-podcast"></i></span>[Test](https://issuu.com/unita.communication/docs/pubblicazioneunita) 
+- <span class="fa-li"><i class="fa-solid fa-video"></i></span>[Rural mobility a Ostana](https://www.youtube.com/watch?v=BrjpxSvv8CI) 
 {: .fa-ul}
