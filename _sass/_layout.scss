@@ -12,34 +12,46 @@ body {
   // nav {}
 
   .central {
+    width: 100%;
     text-align: center;
     
-    .header {}
+    .header {
+      width: 100%;
+
+      * {
+        width: 100%;
+      }
+    }
 
     .content {
     }
   }
 
-  footer {}
+  footer {
+    .mail {
+      word-break: break-word;
+    }
+
+  }
 
 }
 
 
 @media only screen and (min-width: 1980px) {
   .central {
-    margin: 0 30vw;
+    // margin: 0 30vw;
   }
 }
 
 @media only screen and (min-width: 1280px) {
   .central {
-    margin: 0 30vw;
+    // margin: 0 30vw;
   }
 }
 
 @media only screen and (min-width: 600px) {
   .central {
-    margin: 0 20vw;
+    // margin: 0 20vw;
   }
 }
 
