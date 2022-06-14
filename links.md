@@ -14,6 +14,6 @@
 - <span class="fa-li"><i class="fa-solid fa-arrow-right-from-bracket"></i></span>[Research cartography](https://enquetes.u-bordeaux.fr/UPPA-SOFT/UNITA_RI_Carto/Carto.htm?Pwd=UNITA) 
 - <span class="fa-li"><i class="fa-solid fa-arrow-right-from-bracket"></i></span>[UNITA in UniTo](https://www.unito.it/internazionalita/unita-universitas-montium) 
 - <span class="fa-li"><i class="fa-solid fa-arrow-right-from-bracket"></i></span>[UNITA in UniTo - EN](https://en.unito.it/international-relations/unita-universitas-montium) 
-- <span class="fa-li"><i class="fa-solid fa-arrow-right-from-bracket"></i></span>[SUBSCRIBE to UNITA NEWSLETTER by UniTo](https://forms.gle/ZAKMdm5S6nsxjNFN9) 
+- <span class="fa-li"><i class="fa-solid fa-arrow-right-from-bracket"></i></span>[SUBSCRIBE to UNITA NEWSLETTER by UniTo - ITA](https://forms.gle/ZAKMdm5S6nsxjNFN9) 
 - <span class="fa-li"><i class="fa-solid fa-arrow-right-from-bracket"></i></span>[www.univ-unita.eu](http://www.univ-unita.eu/) 
 {: .fa-ul}
