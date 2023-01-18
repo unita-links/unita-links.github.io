@@ -5,6 +5,7 @@
   - <span class="fa-li"><i class="fa-solid fa-arrow-right-from-bracket"></i></span>[NOME_DA_VISUALIZZARE](URL_DA_RAGGIUNGERE) 
 -->
 
+- <span class="fa-li"><i class="fa-solid fa-file-pdf"></i></span>[Two years of UNITA](https://www.ubi.pt/Ficheiros/Sites/86/Noticias/1127/Infografica%20Compleanno%20UNITA.pdf)
 - <span class="fa-li"><i class="fa-solid fa-arrow-right-from-bracket"></i></span>[UNITA: A FACTORY FOR THE EUROPEAN UNIVERSITY (issue April 2022)](https://issuu.com/unita.communication/docs/pubblicazioneunita) 
 - <span class="fa-li"><i class="fa-solid fa-arrow-right-from-bracket"></i></span>[Who we are](https://www.ubi.pt/Sites/unita/en/Pagina/unita) 
 - <span class="fa-li"><i class="fa-solid fa-arrow-right-from-bracket"></i></span>[Rural Mobility opportunites](https://www.ubi.pt/Sites/unita/en/Pagina/mobility#rural_mobility) 
