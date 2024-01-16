@@ -7,6 +7,6 @@
 
 - <span class="fa-li"><i class="fa-solid fa-podcast"></i></span>[5 Sensi (5 senses) \| PODCAST (in italiano)](https://www.spreaker.com/show/unita-5-sensi)
 - <span class="fa-li"><i class="fa-solid fa-podcast"></i></span>[Towards a European University \| PODCAST (in lingua)](https://www.spreaker.com/show/unita-podcast)
-- <span class="fa-li"><i class="fa-solid fa-video"></i></span>[UNITA Mobilities Opportunities\| VIDEO](https://www.youtube.com/watch?v=trhgYmJ-osU)
-- <span class="fa-li"><i class="fa-solid fa-video"></i></span>[UNITA rural mobility 2023 \| VIDEO](https://youtu.be/3ExA3vEJE18)
-- <span class="fa-li"><i class="fa-solid fa-video"></i></span>[Cos'è l'intercomprensione? \| VIDEO](https://youtu.be/Sg4Kl-TMJWM)
+- <span class="fa-li"><i class="fa-solid fa-video"></i></span>[UNITA Mobilities Opportunities\|VIDEO](https://www.youtube.com/watch?v=trhgYmJ-osU)
+- <span class="fa-li"><i class="fa-solid fa-video"></i></span>[UNITA rural mobility 2023 \|VIDEO](https://youtu.be/3ExA3vEJE18)
+- <span class="fa-li"><i class="fa-solid fa-video"></i></span>[Cos'è l'intercomprensione? \|VIDEO](https://youtu.be/Sg4Kl-TMJWM)
